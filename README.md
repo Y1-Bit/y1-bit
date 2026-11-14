@@ -1,7 +1,6 @@
 ### Hello there
 
-Full-stack developer building products end to end, from idea to production.
-
+Full-stack developer.
 **Orchestrating a small army of AI agents 🤖🤖🤖**
 
 ### Stack
